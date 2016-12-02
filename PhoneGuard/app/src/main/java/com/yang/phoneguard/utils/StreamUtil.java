@@ -6,7 +6,7 @@ import java.io.InputStream;
 
 /**
  * 与流相关的工具类
- * <p>
+ *
  * 作者：Yang on 2016/12/1 22:48
  * 邮箱：huyang2100@163.com
  */
